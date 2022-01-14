@@ -1,4 +1,3 @@
 # Tic-Tac-Toe---Python
 
-O projeto não foi 100%, porém acredito estar na hora de estudar outros assuntos. Além, é claro, creio ter entendido os fundamentos de programação tais como OOP, variables, funçoes, list/list comprehension, etc.
-Penso em voltar e reve-lo em breve.
+Jogo da velha feito com ajuda de um tutorial, o Objeto principal( jogador máquina ) foi escrito em outro código e importado para o principal, ambos contidos nesse arquivo
